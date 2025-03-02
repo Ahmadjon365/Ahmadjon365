@@ -5,8 +5,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I'm+Back-end+Developer+⌨️;I'm+Web+Developer+🖲;I'm+Python+Developer+🐍" alt="Typing SVG" /></a>
 
-<p><a href="https://github.com/Adham20080">
-<img alt="Follow Ahmadjon" src="https://img.shields.io/static/v1?label=Follow&message=Adham20080&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
+<p><a href="https://github.com/Ahmadjon365">
+<img alt="Follow Ahmadjon" src="https://img.shields.io/static/v1?label=Follow&message=Ahmadjon365&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
 <a href="https://www.youtube.com/@dasturlash08">
 <img alt="Subscribe Youtube channel" src="https://img.shields.io/static/v1?label=Subscribe&message=Youtube-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
 <a href="https://t.me/Rasmlar_va_malumotlar_uz">
@@ -16,7 +16,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adham20080&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ahmadjon365&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </a>
 
 - 👋 Again Hi, I’m Ahmadjon
@@ -29,23 +29,23 @@
 <details>
 <summary>Github Stats ⚡</summary>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adham20080&theme=2077">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adham20080&theme=2077&utcOffset=5"><br><br><p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadjon365&theme=2077">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmadjon365&theme=2077">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmadjon365&theme=2077&utcOffset=5"><br><br><p align="center">
 </p>
 </details>
 
 <details>
 <summary>Github Stats two ⚡</summary>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&layout=compact" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon365&layout=compact" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadjon365&show_icons=true&locale=en" alt="Ahmadjon365" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjon365&" alt="Adhma20080" /></p>
 </details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@dasturlash08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robotoproprogramtexno" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmadjon-abdulfotih-222a6a2a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adham20080" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmadjon-abdulfotih-222a6a2a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmadjon365" height="30" width="40" /></a>
 <a href="https://twitter.com/AAbdulfotih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AAbdulfotih" height="30" width="40" /></a>
 </p>
 
