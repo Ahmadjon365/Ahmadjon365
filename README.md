@@ -24,7 +24,7 @@
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Python programming language, AI and Django framework
 - 💞️ I’m looking to collaborate on Python!
-- 📫 Telegram: @Ahmadjon_Abdulfotiyev
+- 📫 Telegram: @[Ahmadjon_Abdulfotih](https://t.me/Ahmadjon_Abdulfotih)
 
 <details>
 <summary>Github Stats ⚡</summary>
