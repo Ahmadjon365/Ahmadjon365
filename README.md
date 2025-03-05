@@ -35,6 +35,8 @@
 </p>
 </details>
 
+<a href="https://app.daily.dev/ahmadjon_365"><img src="https://api.daily.dev/devcards/v2/XsQYQpg8Fvt3a0VI188Qg.png?type=wide&r=6qq" width="652" alt="Ahmadjon Abdulfotih's Dev Card"/></a>
+
 <details>
 <summary>Github Stats two ⚡</summary>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon365&layout=compact" /></p>
