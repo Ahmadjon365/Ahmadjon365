@@ -3,7 +3,9 @@
 <div align="center">
 <h2>I'm Coder of PYTHON 👨‍💻 </h1></div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I'm+Back-end+Developer+⌨️;I'm+Web+Developer+🖲;I'm+Python+Developer+🐍" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I%27m+Back-end+Developer+⌨️;I%27m+Web+Developer+🖲;I%27m+Python+Developer+🐍" alt="Typing SVG" />
+</a>
 
 <p><a href="https://github.com/Ahmadjon365">
 <img alt="Follow Ahmadjon" src="https://img.shields.io/static/v1?label=Follow&message=Ahmadjon365&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
