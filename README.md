@@ -39,7 +39,7 @@
 <summary>Github Stats two ⚡</summary>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon365&layout=compact" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadjon365&show_icons=true&locale=en" alt="Ahmadjon365" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjon365&" alt="Ahmadjon365" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjon365&" alt="Ahmadjon365" /></p> -->
 </details>
 
 <h3 align="left">Connect with me:</h3>
